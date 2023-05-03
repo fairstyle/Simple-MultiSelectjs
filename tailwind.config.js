@@ -6,7 +6,6 @@ module.exports = {
     ],
     prefix: 'multiselectjs-',
     corePlugins: {
-        preflight: false,
     },
     plugins: [
         require("tailwindcss"),
