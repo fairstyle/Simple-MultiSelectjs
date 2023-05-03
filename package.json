@@ -7,7 +7,7 @@
     "example": "examples"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "npx tailwindcss --input assets/mix/app.css --output assets/mix/compiled/css/app.css --watch"
   },
   "repository": {
     "type": "git",
@@ -27,5 +27,9 @@
     "url": "https://github.com/fairstyle/Simple-MultiSelectjs/issues",
     "email": "kuvickdabest@gmail.com"
   },
-  "homepage": "https://github.com/fairstyle/Simple-MultiSelectjs#readme"
+  "homepage": "https://github.com/fairstyle/Simple-MultiSelectjs#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "tailwindcss": "^3.3.2"
+  }
 }
