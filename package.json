@@ -1,0 +1,31 @@
+{
+  "name": "simple-multiselectjs",
+  "version": "1.0.0",
+  "description": "a simple vanilla js multiselect",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairstyle/Simple-MultiSelectjs.git"
+  },
+  "keywords": [
+    "multiselect",
+    "vanilla",
+    "js",
+    "vanillajs",
+    "simple",
+    "andrw"
+  ],
+  "author": "Andrw <kuvickdabest@gmail.com> (https://www.liamthomas.cl/andrw/about-me-es)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fairstyle/Simple-MultiSelectjs/issues",
+    "email": "kuvickdabest@gmail.com"
+  },
+  "homepage": "https://github.com/fairstyle/Simple-MultiSelectjs#readme"
+}
