@@ -1,7 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
     content: [
-        './assets/js/*.js',
+        //'./assets/js/MultiSelectjs.js',
+        './examples/*.html',
     ],
     prefix: 'multiselectjs-',
     corePlugins: {

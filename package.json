@@ -7,7 +7,8 @@
     "example": "examples"
   },
   "scripts": {
-    "watch": "npx tailwindcss --input assets/mix/app.css --output assets/mix/compiled/css/app.css --watch"
+    "watch": "npx tailwindcss --input assets/mix/app.css --output assets/mix/compiled/css/app.css --watch",
+    "watch_examples": "npx tailwindcss --input assets/mix/examples.css --output assets/mix/compiled/css/examples.css --watch"
   },
   "repository": {
     "type": "git",
